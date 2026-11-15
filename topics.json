@@ -1,0 +1,7 @@
+{
+  "topics": [
+    {"id": "nhap-xuat", "title": "01 · Nhập xuất và số nguyên"},
+    {"id": "mang", "title": "02 · Mảng và dãy số"},
+    {"id": "quy-hoach-dong", "title": "03 · Quy hoạch động"}
+  ]
+}
